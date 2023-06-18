@@ -1,8 +1,10 @@
-print(5+6)
-print(15-6)
-print(15*6)
-print(15/6)
-print(15//6)
-print(5%3)
-print(2**4)
-print(12*4)
+a = 50 
+b = 5
+
+print("The value of", a, "+", 5, "is: ", a+b)
+print("The value of", a, "-", 5, "is: ", a-b)
+print("The value of", a, "*", 5, "is: ", a*b)
+print("The value of", a, "/", 5, "is: ", a/b)
+print("The value of", a, "//", 5, "is: ", a//b)
+print("The value of", a, "%", 5, "is: ", a%b)
+print("The value of", a, "**", 5, "is: ", a**b)
